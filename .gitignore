@@ -233,3 +233,5 @@ Doxyfile
 html
 manual.zip
 dist
+*.nupkg
+*.exe
